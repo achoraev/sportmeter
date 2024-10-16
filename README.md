@@ -1,2 +1,2 @@
-# sportmeter
-Sportmeter website
+# achoraev.github.io
+Sport Meter Web
